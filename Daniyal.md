@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Daniyal
 - 👀 I’m interested in App , Game and Web Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning DSA
